@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<project>
+    <projectId>10000</projectId>
+    <projectKey>DW</projectKey>
+    <exportDate>2023-11-11 15:02:37 UTC</exportDate>
+    <folders>
+        <folder fullPath="Logout" index="0"/>
+    </folders>
+    <testCases>
+        <testCase id="111946098" key="DW-T1">
+            <attachments/>
+            <confluencePageLinks/>
+            <createdBy>WILLIAM ALVES AZEREDO</createdBy>
+            <createdOn>2023-11-11 14:49:56 UTC</createdOn>
+            <customFields/>
+            <folder><![CDATA[Logout]]></folder>
+            <issues/>
+            <labels/>
+            <name><![CDATA[Cliente deseja deslogar pelo "Inventário"]]></name>
+            <owner>712020:7d14a51f-b7df-42fa-b038-bf2a96eafa36</owner>
+            <priority><![CDATA[Normal]]></priority>
+            <status><![CDATA[Draft]]></status>
+            <parameters/>
+            <testDataWrapper/>
+            <testScript type="steps">
+                <steps>
+                    <step index="0">
+                        <customFields/>
+                        <description><![CDATA[Deslogar pelo Invent&aacute;rio]]></description>
+                        <expectedResult><![CDATA[Retornar a tela de Login]]></expectedResult>
+                        <testData><![CDATA[Usu&aacute;rio - Senha - Sess&atilde;o]]></testData>
+                    </step>
+                </steps>
+            </testScript>
+        </testCase>
+        <testCase id="111946107" key="DW-T2">
+            <attachments/>
+            <confluencePageLinks/>
+            <createdBy>WILLIAM ALVES AZEREDO</createdBy>
+            <createdOn>2023-11-11 14:52:04 UTC</createdOn>
+            <customFields/>
+            <folder><![CDATA[Logout]]></folder>
+            <issues/>
+            <labels/>
+            <name><![CDATA[Cliente deseja deslogar pelo "Carrinho de Compras"]]></name>
+            <owner>712020:7d14a51f-b7df-42fa-b038-bf2a96eafa36</owner>
+            <priority><![CDATA[Normal]]></priority>
+            <status><![CDATA[Draft]]></status>
+            <parameters/>
+            <testDataWrapper/>
+            <testScript type="steps">
+                <steps>
+                    <step index="0">
+                        <customFields/>
+                        <description><![CDATA[Deslogar pelo &quot;Carrinho de Compras&quot;]]></description>
+                        <expectedResult><![CDATA[Retornar a tela de Login]]></expectedResult>
+                        <testData><![CDATA[Usu&aacute;rio - Senha - Sess&atilde;o]]></testData>
+                    </step>
+                </steps>
+            </testScript>
+        </testCase>
+    </testCases>
+</project>
